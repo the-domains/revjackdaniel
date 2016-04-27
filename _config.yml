@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.8845327
+color:
+  saturation: 0.1469762
+  lightness: 0.6386712
+  brandStrength: 0.04901079
+  rhythmicContrast: 0.4783948
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: RevJackDaniel
