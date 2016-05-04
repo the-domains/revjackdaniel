@@ -1,26 +1,26 @@
-color:
-  saturation: 0.1469762
-  brandStrength: 0.04901079
-  rhythmicContrast: 0.4783948
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  lightness: 0.6386712
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.8845327
+color:
+  saturation: 0.1469762
+  brandStrength: 1
+  lightness: 0.6386712
+  brandColors:
+    - '#0B060A'
+    - '#EAEDD0'
+    - '#FB3067'
+    - '#A08E76'
+    - '#66453E'
+  rhythmicContrast: 0.4783948
+layout_spectrum: 1
 name: RevJackDaniel
