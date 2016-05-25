@@ -14,6 +14,7 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: On the road to where God leads.
 cta:
   domain: null
   bucket: null
